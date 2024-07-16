@@ -18,15 +18,15 @@ pip install -r requirements.txt
 ### Documento de Word 
 
 ```bash
-python main documento_de_entrada.docx documento_de_salida.md
+python main.py documento_de_entrada.docx documento_de_salida.md
 ```
 ### Documento de Powerpoint
 
 ```bash
-python main presentacion_de_entrada.pptx documento_de_salida.md
+python main.py presentacion_de_entrada.pptx documento_de_salida.md
 ```
 ### Documento en formato PDF
 
 ```bash
-python main un_pdf_de_entrada.docx documento_de_salida.md
+python main.py un_pdf_de_entrada.docx documento_de_salida.md
 ```
